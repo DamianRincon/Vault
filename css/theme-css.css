@@ -1,0 +1,37 @@
+/* --------------------------
+	Primary Color
+----------------------------- */
+/* Background gradient*/
+.gradient { background: rgba(0, 0, 0, 0) linear-gradient(to right, #1e5799 0%, #db2b73 0%, #212121 100%) repeat scroll 0 0; }
+
+
+/* Background color*/
+.btn-primary, .pmd-navbar.navbar .navbar-nav .nav-active, .pmd-features-list li.list-group-item.active .avatar-list-img, .owl-dot.active, .media-avatar:after,.member-informations, .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active.focus, .btn-default.active:focus, .btn-default.active:hover, .btn-default:active.focus, .btn-default:active:focus, .btn-default:active:hover, .btn-primary.pmd-btn-outline:hover, .btn-primary.pmd-btn-outline:focus, .btn-primary.pmd-btn-outline:active, .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary:active:focus, .primary-bg, .circle-animate .circle span, .social-icon a:hover { background-color: #db2b73; }
+
+/* border color*/
+.owl-dot.active,  .btn-primary.pmd-btn-outline:hover, .btn-primary.pmd-btn-outline:focus, .btn-primary.pmd-btn-outline:active, .circle-animate .circle, .social-icon a:hover{ border-color: #db2b73; }
+
+/*fill color*/
+.pmd-card-icon svg path, .pmd-card-icon svg, .pmd-card-icon img, .img-svg svg, .section-subscribe .icon-svg{ fill:#db2b73;}
+
+/* color*/
+.btn-default, .btn-default.pmd-btn-outline:hover, .btn-default.pmd-btn-outline:focus, .btn-default.pmd-btn-outline:active, a:hover, a:focus, a:active{color: #db2b73;}
+
+/* --------------------------
+	Secondary Color 
+----------------------------- */
+/* Background color*/
+.pmd-navbar.navbar .navbar-nav .nav-active{ background: #212121;}
+
+/* Text color*/
+nav.navbar .navbar-nav >.active > a, nav.navbar .navbar-nav >.active > a:focus, nav.navbar .navbar-nav >.active > a:hover, nav.navbar .navbar-nav > li.active > a, nav.navbar .navbar-nav > li > a.active{ color: #212121;}
+
+/* --------------------------
+	Text primary Color
+----------------------------- */
+h1 a, h2 a, h3 a, h4 a, h5 a, .h1 a, .h2 a, .h3 a, .h4 a, .h5 a, a, b, strong, h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, .h1 a, .h2 a, .h3 a, .h4 a, .h5 a, .pmd-card-body .pmd-card-title-text, .form-control, .pmd-card-title-text, #faq .panel-group.pmd-accordion .panel > .panel-heading a, .member-informations a{ color:#212121;}
+
+/* --------------------------
+	Text secondary Color
+----------------------------- */
+body, .pmd-card-body, .pmd-textfield label, .pmd-card-body .pmd-card-description, .pmd-card-subtitle-text, .testimonial-item p em, .pmd-features-list li.list-group-item.active{ color:#696969;}
